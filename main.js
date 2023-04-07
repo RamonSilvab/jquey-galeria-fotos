@@ -25,6 +25,6 @@ $(document).ready(function() {
         $(novoItem).fadeIn(1000);
         $('#endereço-imagem-nova').val('');
     });
-    
 
+    
 })
